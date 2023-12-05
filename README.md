@@ -6,9 +6,7 @@
 
 # AOC_EduardoFilipeMarcus_UFRR_2023
  <p align="center">    
-  Este trabalho aborda o projeto de implementação de um processador 16 bits uni-ciclo baseado na arquitetura do processador MIPS, implementado através
-  da linguagem VHDL e a ferramenta Intel Quartus Prime Lite.
-  </p>
+  Este trabalho é uma elaboração de um processador uni-ciclo de 16 bits, modelado segundo a arquitetura do processador MIPS e desenvolvido por meio da linguagem VHDL, utilizando a ferramenta Intel Quartus Prime Lite.
     </a>
   </p>
 </p>
